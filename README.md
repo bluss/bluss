@@ -14,12 +14,12 @@ Main interests: Algorithms, Data Structures, Rust, Python
 
 I created these Rust crates originally:
 
-[itertools](https://docs.rs/itertools)<br>
-[ndarray](https://docs.rs/ndarray)<br>
-[petgraph](https://docs.rs/petgraph)<br>
-[indexmap](https://docs.rs/indexmap)<br>
-[matrixmultiply](https://docs.rs/matrixmultiply)<br>
-and others
+[itertools](https://docs.rs/itertools),
+[ndarray](https://docs.rs/ndarray),
+[petgraph](https://docs.rs/petgraph),
+[indexmap](https://docs.rs/indexmap),
+[matrixmultiply](https://docs.rs/matrixmultiply),
+and others.
 
 Some of them are now maintained by new owners or maintainers.
 
