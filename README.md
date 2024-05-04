@@ -1,27 +1,21 @@
-
 <div align="center">
 
-I'm an engineer (M.Sc. eng. physics) and software engineer
-
-**2024**
-
+**2024**<br>
 Published [pyproject-local-kernel](https://github.com/bluss/pyproject-local-kernel)
 
-**About Me**
-
-Ulrik Sverdrup, username "bluss"<br>
-Main interests: Algorithms, Data Structures, Rust, Python
-
-I created these Rust crates originally:
-
+**General**<br>
+I created these Rust crates originally:<br>
 [itertools](https://docs.rs/itertools),
 [ndarray](https://docs.rs/ndarray),
 [petgraph](https://docs.rs/petgraph),
 [indexmap](https://docs.rs/indexmap),
 [matrixmultiply](https://docs.rs/matrixmultiply),
-and others.
-
+and others.<br>
 Some of them are now maintained by new owners or maintainers.
+
+Ulrik Sverdrup, username "bluss"<br>
+I'm an engineer (M.Sc. eng. physics) and software engineer
+
 
 </div>
 
